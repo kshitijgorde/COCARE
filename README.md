@@ -1,9 +1,9 @@
-COCAINE
+COCARE
 =======
 
 Visual Basic 6.0 App for effective and interactive Laboratory Management
 A Visual Basic 6.0 App with visual display of Laboratory to address the complaints in a Laboratory. 
-COCAINE is an abbr for Computer Care In Engineering Lab. Done in a group of 4. 
+COCARE is an abbr for Computer Care In Engineering Lab. Done in a group of 4. 
 Initially greeted with logins for admin and student. 
 Upon selecting (registration essential) student is required to enter the appropriate Laboratory name. 
 Student is greeted with Visual display of the Laboratory and he/she just has to select the computer(GUI). 
